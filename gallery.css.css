@@ -1,0 +1,45 @@
+h1{
+	color: blue;
+	border-style: solid;
+	border-color: mediumslateblue;
+	text-align: center;
+	margin: 50px;
+	padding: 30px;
+	font-size: 60px;
+	}
+h2{
+	color: sienna;
+	border-style: dotted;
+	border-color: lightseagreen;
+	text-align: center;
+	margin-right: 60px;
+	margin-left: 60px;
+	padding: 20px;
+    size:50px;
+    font-size: 50px;
+}
+
+.about {
+	float: right;
+	padding: 50px;
+}
+
+.floating {
+	border:1px solid;
+	margin-bottom: 4px;
+	border-radius: 10px;
+}
+
+.floating img{
+	border-style: double;
+	border-color: #555;
+	width: 30%;
+	padding:0px;
+	margin: 30px;
+}
+
+	
+body
+	{
+		background-color: lightgreen;
+	}

@@ -1,0 +1,148 @@
+body{
+	background-color: #78C29E;
+}
+body{
+	background-image: url("nl.jpg");
+}
+.option{
+	border: 2px solid #fff;
+	height: 50px;
+	margin-top: 6px;
+}
+.navbar	{
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: black;
+		}
+.nav-menu{
+			float: left;
+		}
+		.nav-menu a{
+					display: block;
+					color: lightgreen;
+					text-align: center;
+					padding: 20px;
+					}
+.navbar img{
+	width: 30%;
+			}
+
+.p{
+	border-style:solid;
+	border-color: #F15734;
+	border-width: 5px;
+	padding:30px;
+	margin: 30px;
+	width: 450px;
+	color: #065125;
+	background-color: #d0e1f9; 
+}
+ .p img{
+		float: left;
+		border-style: solid; 
+		border-color: #F15734;
+		border-width: 5px;
+		margin-left:500px;
+		margin-top: -150px; 
+		padding-top: 10px;
+		padding right: 10px;
+		padding-left: 10px;
+		height: 166px;
+	}
+.Category{
+	border-style: solid;
+	border-color: #F15734;
+	border-width: 5px;
+	padding:30px;
+	margin: 30px;
+	width: 200px; 
+	height: 150px;
+	background-color: #54b2a9;
+}
+.Category ul{
+	list-style-type: none;
+}
+.Product{
+	 margin-top: -255px;
+	 margin-left: -200px;
+  	border-color: #F15734;
+	border-width: 5px;
+	border-style: solid;
+  	float: right;
+  	width: 500px;
+  	height: auto;
+  	background-color: #54b2a9;
+ }
+ .Product img{
+ 	width: 20%
+ 	height: auto;
+ 
+}
+.gallery Category{
+			float: left;
+}
+.gallery Product{
+		float: left;
+	
+}
+.Product h4{
+	text-align: center;
+}
+.desc{
+		padding: 30px;
+		text-align: center;
+
+}
+.produces{
+			list-style-type: none;
+}
+.site{
+	float: left;
+	width: 20%;
+	padding-right: 30px;
+
+}
+.produces img{
+				float: left;
+				width: 100%;
+				padding-right: 2px;
+}
+.logo{
+	border: 5px solid #F15734;
+	margin-top:100px;
+	margin-right:100px;
+	margin-left:100px;
+	background-color: #54b2a9 ;
+	border-radius: 20px;
+}
+.logo img{
+			width: 50px;
+			height: 20%
+			margin: 50px;
+			padding-left:600px;
+}
+.logo h5{
+	text-align: center;
+}
+.footer{
+	/*display: block;
+	border: 5px solid #DDA033;
+	margin: 10px;
+	background-color: #e0a899;
+	border-radius: 20px;*/
+}
+.footer p{
+	/*text-align: right;
+	text-decoration-color: red;
+	margin: 25px;*/
+			margin-top: 5px;
+			padding: 0px;
+			/*overflow: hidden;*/
+			background-color: black;
+			color: lightgreen;
+			height: 40px;
+			padding: 20px;
+			text-align: center;
+}
